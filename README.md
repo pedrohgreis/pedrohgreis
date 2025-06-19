@@ -35,7 +35,8 @@
 #### 🧪 Testing & Best Practices
 <p align="left">
   <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.svg" width="40" alt="Cypress" />
+  <img src="https://camo.githubusercontent.com/0c3cc6e1243d60b2bb93b2f017f5865aef58fdfa9f17b63f6509c3e4e90c9613/68747470733a2f2f7777772e6369706865726573732e696f2f696d616765732f6c6f676f2f6369706865726573732d6c6f676f2d62672e737667" width="40" alt="Cypress" />
+
 </p>
 
 #### 🛠️ Version Control
@@ -54,13 +55,6 @@
 
 ---
 
-### 📈 GitHub Contributions
-
-<!-- Snake animation -->
-<!-- Only works if GitHub Actions are configured on your repo -->
-![snake gif](https://github.com/pedrohgreis/pedrohgreis/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📊 GitHub Stats
 
