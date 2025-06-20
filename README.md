@@ -67,11 +67,6 @@
 
 ---
 
-### 🕹️ Snake Game Contribution Graph
-
-![snake gif](https://github.com/pedrohgreis/pedrohgreis/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🔗 Connect with Me
 
