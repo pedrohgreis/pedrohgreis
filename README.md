@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Pedro Henrique 👋</h1>
 
 <p align="center">
@@ -35,6 +36,10 @@
 #### 🧪 Testing & Best Practices
 <p align="left">
   <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" />
+          
+          
+          
 </p>
 
 #### 🛠️ Version Control
@@ -53,9 +58,24 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohgreis&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedrohgreis&show_icons=true&theme=tokyonight&rank_icon=github" />
+</p>
+
+---
+
+### 🕹️ Snake Game Contribution Graph
+
+![snake gif](https://github.com/pedrohgreis/pedrohgreis/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/pedro-henrique-reis-157a94314"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:pedrohgdreis@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
 </p>
