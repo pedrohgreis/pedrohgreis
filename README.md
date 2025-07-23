@@ -13,6 +13,7 @@
 - 🚀 Working with **ReactJS**, **TypeScript**, and **Styled-Components**
 - 🧠 Expanding skills in **Back-end development with Node.js**
 - 🐍 Familiar with **Python** (beyond basics, not advanced)
+- 🔧 Currently learning .NET (C#) to broaden my full-stack capabilities
 
 ---
 
@@ -35,11 +36,7 @@
 
 #### 🧪 Testing & Best Practices
 <p align="left">
-  <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" />
-          
-          
-          
+  <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />         
 </p>
 
 #### 🛠️ Version Control
@@ -52,9 +49,13 @@
 
 ### 📚 Currently Learning
 
-- ✅ Automated testing with **Vitest** (backend) and **Cypress** (frontend)
+
+- ✅ Automated testing with **Vitest** (backend)
 - 🧩 Relational databases with **MySQL** using **Knex.js**
 - 🧼 **Clean Architecture** & **Design Patterns**
+- 🧱 Studying **.NET (C#)**
+- 🧭 Deepening knowledge in **Prisma ORM** with **PostgreSQL**
+- 🐳 Using **Docker** for environment/container management
 
 ---
 
