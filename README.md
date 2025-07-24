@@ -51,7 +51,7 @@
 
 
 - ✅ Automated testing with **Vitest** (backend)
-- 🧩 Relational databases with **MySQL** using **Knex.js**
+- 🧩 Relational databases with **PostgreSQL**
 - 🧼 **Clean Architecture** & **Design Patterns**
 - 🧱 Studying **.NET (C#)**
 - 🧭 Deepening knowledge in **Prisma ORM** with **PostgreSQL**
