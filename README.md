@@ -13,7 +13,7 @@
 - 🚀 Working with **ReactJS**, **TypeScript**, and **Styled-Components**
 - 🧠 Expanding skills in **Back-end development with Node.js**
 - 🐍 Familiar with **Python** (beyond basics, not advanced)
-- 🔧 Currently learning .NET (C#) to broaden my full-stack capabilities
+
 
 ---
 
@@ -53,7 +53,6 @@
 - ✅ Automated testing with **Vitest** (backend)
 - 🧩 Relational databases with **PostgreSQL**
 - 🧼 **Clean Architecture** & **Design Patterns**
-- 🧱 Studying **.NET (C#)**
 - 🧭 Deepening knowledge in **Prisma ORM** with **PostgreSQL**
 - 🐳 Using **Docker** for environment/container management
 
