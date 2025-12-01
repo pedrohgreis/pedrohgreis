@@ -11,7 +11,8 @@
 
 - 🌐 Focused on **Web Development**
 - 🚀 Working with **ReactJS**, **TypeScript**, and **Styled-Components**
-- 🧠 Expanding skills in **Back-end development with Node.js**
+- 🧠 Expanding skills in **Back-end development with Node.js and NestJs**
+- 📱 Studying **Kotlin with Jetpack Compose for Android Development**
 - 🐍 Familiar with **Python** (beyond basics, not advanced)
 
 
@@ -25,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt = "NestJs/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt = "Kotlin" />
+  <img src="https://developer.android.com/images/jetpack/compose/compose-logo.svg" width="40" alt = "Jetpack Compose" />
   <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" alt="Styled Components" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
 </p>
@@ -36,7 +40,8 @@
 
 #### 🧪 Testing & Best Practices
 <p align="left">
-  <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />         
+  <img src="https://vitest.dev/logo.svg" width="40" alt="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt = "Jest" />
 </p>
 
 #### 🛠️ Version Control
